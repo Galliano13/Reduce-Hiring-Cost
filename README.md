@@ -115,6 +115,7 @@ Before One Hot Encoding :
 ![Cat Variable](https://user-images.githubusercontent.com/107464383/195836643-f1a63415-2bfa-40a9-8bc2-9b6542a0a63c.PNG)
 
 After One Hot Encoding :
+
 ![Cat Variable OHE](https://user-images.githubusercontent.com/107464383/195837037-e61c02c1-404d-434a-a71f-17b5da582c05.PNG)
 
 ## Data Normalization
