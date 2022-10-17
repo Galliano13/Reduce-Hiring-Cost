@@ -199,9 +199,9 @@ Based on matrix above, we correctly classify around 2.400 employee who will stay
 
 ![F1 Score Deep Learning](https://user-images.githubusercontent.com/107464383/195978783-1e45fef6-3449-4cb2-ba03-226da967869f.PNG)
 
-Table above shows that our logistic regression model have F1 Score of 0.83, it means accuracy of our logistic regression model is 83%
+Table above shows that our deep learning model have F1 Score of 0.83, it means accuracy of our deep learning model is 83%
 
-#Conclusions
+# Conclusions
 
 To predict which employee that might leave the company, we used three algorithm for our model. The following three algorithm are :
 - Logistic regression classifier with accuracy of 82%
