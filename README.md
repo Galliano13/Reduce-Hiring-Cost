@@ -94,7 +94,7 @@ From the plot above, we know that several features such as 'MonthlyIncome' and '
 - Sales representative is jobrole with lowest monthly salary
 - Manager is jobrole with highest monthly salary
 
-##Data Correlation
+## Data Correlation
 
 ![Data Vis 8](https://user-images.githubusercontent.com/107464383/195828418-1caa7235-6dbf-4203-a425-645103e11dac.png)
 
@@ -129,7 +129,7 @@ After Data Normalization :
 
 ![After Normalization](https://user-images.githubusercontent.com/107464383/195841562-d9d886e4-2552-409d-8c7e-dd41398e82a6.PNG)
 
-# Train and Evaluate a Logistic Regression Classifier
+# 5. Train and Evaluate a Logistic Regression Classifier
 
 ## Train Logistic Regression Classifier
 We split the dataset into X Train, X Test, Y Train, and Y Test. X is consist of all columns in dataset except for attrition columns because attrition columns is data that we want to predict. Y is attrition column. We used 80% of our data into training dataset and 20% of our data into testing dataset.
@@ -152,7 +152,7 @@ Based on matrix above, we correctly classify around 2.500 employees who will sta
 
 Table above shows that our logistic regression model have F1 Score of 0.82, it means accuracy of our logistic regression model is 82%
 
-# Train and Evaluate a Random Forest Regression Classifier
+# 6. Train and Evaluate a Random Forest Regression Classifier
 
 ## Train Random Forest Regression Classifier
 We split the dataset into X Train, X Test, Y Train, and Y Test. X is consist of all columns in dataset except for attrition columns because attrition columns is data that we want to predict. Y is attrition column. We used 80% of our data into training dataset and 20% of our data into testing dataset.
@@ -175,7 +175,7 @@ Based on matrix above, we correctly classify around 2.400 employee who will stay
 
 Table above shows that our logistic regression model have F1 Score of 0.80, it means accuracy of our logistic regression model is 80%
 
-# Train and Evaluate Deep Learning Model
+# 7. Train and Evaluate Deep Learning Model
 
 ## Train Deep Learning Model
 
